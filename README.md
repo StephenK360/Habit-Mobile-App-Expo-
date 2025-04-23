@@ -1,3 +1,8 @@
+# Habit-Mobile-App-Expo-
+I developed this app as an exercise to get familiar with react native protocol and I am very happy with how it turned out!
+
+## Getting Started
+
 Our Habit Building app project for Agile final coursework
 
 Instructions: Please install Expo Go on your mobile phone to test the project.
